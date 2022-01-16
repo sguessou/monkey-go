@@ -5,6 +5,6 @@ If you're interested in learning about interpreters and compilers head off [here
 
 Big shout-out to Thorsten Ball for writing the books!!!
 
-The `monkey-go` parser can be tried out at the `REPL` by running this command at the root directory: `go run main.go`
+Load the `monkey-go` interpreter by running `go run main.go` at the terminal.
 
 ![Lexer](images/monkey_biz.png)
