@@ -5,8 +5,6 @@ If you're interested in learning about interpreters and compilers head off [here
 
 Big shout-out to Thorsten Ball for writing the books!!!
 
-The lexer for `monkey-go` can be tried out at the `REPL` by running this command at the root directory: `go run main.go`
+The `monkey-go` parser can be tried out at the `REPL` by running this command at the root directory: `go run main.go`
 
-Enter the statement `let x = 5;` into the lexer and press Enter to get the tokens.
-
-![Lexer](images/tokens_go_monkey.png)
+![Lexer](images/monkey_biz.png)
